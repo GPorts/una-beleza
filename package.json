@@ -1,0 +1,5 @@
+{
+  "name": "una-beleza", "version": "1.0.0", "private": true,
+  "description": "MVP local de assinatura de beleza e autocuidado",
+  "scripts": { "dev": "node server.cjs", "start": "node server.cjs", "check": "node --check app.js", "test": "node smoke-test.cjs", "build": "node build.cjs" }
+}
